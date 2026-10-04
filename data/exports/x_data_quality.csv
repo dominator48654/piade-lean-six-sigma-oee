@@ -1,0 +1,10 @@
+check_name,result
+rows loaded,429394
+null cells in key columns,0
+duplicate rows,0
+elapsed vs (end-start) mismatch > 1 %,0
+negative counter deltas (pi),85
+counter deltas rejected as glitch,2397
+alarm on non-downtime row,0
+downtime row without alarm,0
+idle rows with a reason code,0
